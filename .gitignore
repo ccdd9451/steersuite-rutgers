@@ -30,3 +30,7 @@
 # Documentation
 documentation/CodeReference
 documentation/doxygen-warnings.log
+
+build/gmake
+build/vs*
+build/bin
